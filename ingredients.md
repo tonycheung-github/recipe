@@ -6,3 +6,4 @@ C
 Time to add more ingredients:
 Salt
 Pepper
+Sugar
