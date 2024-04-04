@@ -11,14 +11,14 @@ My Ordered List
 1. First Thing
 2. Second Thing
 3. Third Thing
-4. Fourth Thing
+4. *Fourth Thing*
 5. Fifth Thing
 
-My Unordered List
+My Unordered **List**
+- *Thing*
 - Thing
 - Thing
-- Thing
-- Thing again
+- Thing **again**
 - Another Thing
 
 
