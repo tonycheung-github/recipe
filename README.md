@@ -7,6 +7,8 @@
 This is my recipe for assignment Three. # recipe
 last line changed locally
 
+![Dinner](recipe.png)"This is me"
+
 My Ordered List
 1. First Thing
 2. Second Thing
